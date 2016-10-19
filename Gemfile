@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# devise gem for user authentication and accounts
+gem 'devise'
 # nav file
 gem 'bootstrap-sass', '~> 3.3.6'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
